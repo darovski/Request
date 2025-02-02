@@ -30,6 +30,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -57,7 +58,7 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2pVgvQuMkSOzVq4cQnQo5ympXJu" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -73,7 +74,8 @@
     "Python.main.executor": "Run",
     "Python.sel2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#1 on Selenium",
+    "git-widget-placeholder": "AZ00",
+    "last_opened_file_path": "C:/Users/darovski/Documents/GitHub",
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
