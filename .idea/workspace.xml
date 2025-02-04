@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="793437b4-42d0-4835-8e8a-881635fa7922" name="Changes" comment="" />
+    <list default="true" id="793437b4-42d0-4835-8e8a-881635fa7922" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main.ru.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,22 +41,22 @@
     &quot;assignee&quot;: &quot;darovski&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/darovski/Request.git",
-    "accountId": "0ee5e53d-6b2f-4dca-ae7b-7ad10a23287e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/darovski/Request.git&quot;,
+    &quot;accountId&quot;: &quot;0ee5e53d-6b2f-4dca-ae7b-7ad10a23287e&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "darovski",
-    "repository": "Request"
+    &quot;owner&quot;: &quot;darovski&quot;,
+    &quot;repository&quot;: &quot;Request&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -65,21 +68,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Selenium.executor": "Run",
-    "Python.WriteDataSite.executor": "Run",
-    "Python.divannewpars.executor": "Run",
-    "Python.game_lingvo.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.sel2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "AZ00",
-    "last_opened_file_path": "C:/Users/darovski/Documents/GitHub",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WriteDataSite.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divannewpars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_lingvo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.ru.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sel2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;AZ00&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/darovski/Documents/GitHub/Request&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.WriteDataSite">
+}</component>
+  <component name="RunManager" selected="Python.main.ru">
     <configuration name="Selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Request" />
       <option name="ENV_FILES" value="" />
@@ -146,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_lingvo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main.ru" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Request" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game_lingvo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.ru.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main.ru" />
         <item itemvalue="Python.WriteDataSite" />
         <item itemvalue="Python.Selenium" />
         <item itemvalue="Python.divannewpars" />
         <item itemvalue="Python.sel2" />
-        <item itemvalue="Python.game_lingvo" />
       </list>
     </recent_temporary>
   </component>
