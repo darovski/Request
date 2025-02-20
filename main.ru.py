@@ -1,9 +1,9 @@
 import time
 import csv
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from sel import webdriver
+from sel.webdriver.common.by import By
+from sel.webdriver.support.ui import WebDriverWait
+from sel.webdriver.support import expected_conditions as EC
 
 #WebDriverWait(webdriver, 60).until(EC.presence_of_element_located((By.ID, "someElementID")))
 
